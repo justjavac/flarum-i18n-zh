@@ -2,3 +2,4 @@
 * Français/French  https://github.com/maelsoucaze/flarum
 * 西班牙语/Spanish https://github.com/johannsa/FlarumES
 * 日本語/Japanese https://github.com/Felli/flarum-japanese
+* 土耳其语/Turkish https://github.com/projectcagla/flarumTR
