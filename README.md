@@ -1,8 +1,14 @@
-* 简体中文/SimplifiedChinese https://github.com/Flarum-Chinese/Flarum-zh-CN
-* 法语/French  https://github.com/maelsoucaze/flarum
-* 西班牙语/Spanish https://github.com/johannsa/FlarumES
-* 日语/Japanese https://github.com/Felli/flarum-japanese
-* 土耳其语/Turkish https://github.com/projectcagla/flarumTR
-* 加泰罗尼亚语/Catalan https://github.com/imdario/flarum-ca_ES
-* 波兰语/Polish https://github.com/modInfo/flarum-i18n-polish
-* 越南语/Vietnam  https://github.com/laptrinhphp/flarum-vietnamese
+- [阿拉伯语](https://github.com/samymassoud/flarum-arabic-beta4) (with RTL) by @samymassoud
+- [简体中文](https://github.com/jsthon/flarum-simplified-chinese) by @jsthon
+- [繁体中文](https://github.com/kevchentw/Flarum-zh-TW) by @kevchentw
+- [加泰罗尼亚语](https://github.com/imdario/flarum-ca_ES) by @dario
+- [菏兰语](https://github.com/rodymol123/Flarum-nl-NL) by @rodymol123
+- [法语](https://github.com/maelsoucaze/flarum) by @Qia
+- [芬兰语](https://github.com/mhisham/flarum-finnish) by @mhisham
+- [印度尼西亚](https://github.com/realodix/flarum-indonesian) by @KeiGR
+- [意大利语](https://github.com/flame05/flarum-ita) by @flame
+- [韩语](https://github.com/yongteak/flarum-i18n-korean) by @yongteak
+- [波兰语](https://github.com/modInfo/flarum-i18n-polish) by @modInfo
+- [西班牙语](https://github.com/johannsa/FlarumES) by @Johann
+- [土耳其语](https://github.com/rizaergun/Flarum-tr-TR) by @offoffoff
+- [越南语](https://github.com/laptrinhphp/flarum-vietnamese) by @dungpx
